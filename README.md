@@ -30,4 +30,10 @@ blablabla
 
 ## Resources & References
 
-blablabla
+Resources yang akan digunakan pada project ini ialah sebagai berikut:
+
+1. Environment Generator (sebagai asset utama dalam pengembangan lingkungan)
+2. Unity Asset Store (untuk memperoleh kit dan assets yang dibutuhkan)
+3. Unity Learn (acuan utama dalam pembuatan mekanik game)
+4. Unity’s Post-processing Stack (penyempurnaan pasca proses untuk pengalaman yang lebih imersif)
+5. Forum dan YouTube (pembahasan mendetail dan penyempurnaan kode pada implementasi)
