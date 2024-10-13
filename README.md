@@ -4,35 +4,36 @@
 
 ## About Game
 
-Dalam proyek akhir ini, pemain akan memasuki dunia yang dilanda wabah virus mematikan yang telah mengubah sebagian besar populasi manusia menjadi zombie. Pemain akan berperan sebagai salah satu dari sedikit orang yang masih bertahan hidup dan harus mengandalkan keahlian menembak, strategi bertahan hidup, dan sumber daya yang terbatas untuk bertahan hidup dalam lingkungan yang berbahaya.
+In this final project, players will enter a world hit by a deadly virus outbreak that has turned most of the human population into zombies. Players will assume the role of one of the few survivors and must rely on their marksmanship, survival strategies and limited resources to survive in a dangerous environment.
 
-Game ini bertipe survival-shooter di mana pemain harus menjelajahi area yang dipenuhi zombie, mencari persediaan, senjata, dan alat medis sambil berhadapan dengan gelombang serangan zombie yang semakin intens. Selain menghadapi zombie, pemain juga harus mengelola kebutuhan seperti stamina, kesehatan, dan amunisi. Setiap keputusan penting karena dapat mempengaruhi peluang bertahan hidup.
+The game is a survival-shooter type where players must explore zombie-infested areas, searching for supplies, weapons, and medical kits while dealing with increasingly intense waves of zombie attacks. In addition to dealing with zombies, players must also manage necessities such as stamina, health, and ammunition. Every decision is important as it can affect the chances of survival.
 
-Fitur Utama:
 
-1. **Mode Bertahan Hidup**: Pemain harus bertahan selama mungkin melawan gelombang serangan zombie yang semakin sulit di setiap level. Semakin lama bertahan, semakin banyak reward yang didapatkan.
+Main Feature:
 
-2. **Eksplorasi Dunia Terbuka**: Pemain dapat menjelajahi kota yang hancur, markas militer yang ditinggalkan, dan tempat-tempat lain yang penuh bahaya untuk mencari persediaan.
+1. **Survival Mode**: Players must survive as long as possible against waves of zombie attacks that get harder with each level. The longer you survive, the more rewards you get.
 
-3. **Kustomisasi Senjata**: Pemain dapat meng-upgrade senjata dan mengganti peralatan mereka untuk meningkatkan efektivitas dalam bertahan hidup melawan zombie.
+2. **Open World Exploration**: Players can explore ruined cities, abandoned military bases, and other places full of dangers in search of supplies.
 
-4. **Manajemen Sumber Daya**: Amunisi, makanan, dan obat-obatan terbatas, sehingga pemain harus cermat mengatur dan memilih kapan waktu yang tepat untuk menggunakannya.
+3. **Weapon Customization**: Players can upgrade their weapons and change their equipment to increase their effectiveness in surviving against zombies.
 
-> **Tujuan Akhir**: Bertahan selama mungkin melawan serangan zombie sambil mencoba mengeksplor dunia baru.
+4. **Resource Management**: Ammunition, food, and medicine are limited, so players must carefully organize and choose when to use them.
+
+> **End Goal**: Survive as long as possible against zombie attacks while trying to explore a new world.
 
 ## Game Mechanics
 
 1. **Crafting**
 
-Beggars can't be choosers. Pemain perlu memanfaatkan apapun yang ditemukan untuk bertahan hidup. 
+Beggars can't be choosers. Players need to utilize whatever they find to survive. 
 
 2. **Limited Resource**
    
-Didalam dunia yang kacau ini, tidak ada satupun dapat masuk dan keluar. Berpikir dua kali (atau tiga) sebelum membuat keputusan. Gunakan peralatan yang pemain temukan untuk melindungi atau membunuh.
+In this chaotic world, there is no getting in and getting out. Think twice (or three) before making a decision. Use the equipment players find to protect or kill.
 
-3. **Kesulitan Adaptif**
+3. **Adaptive Difficulty**
    
-Pemain hanya orang sehari-hari biasa, tapi lingkungan dapat memaksa untuk beradaptasi, atau mati.
+Players are just ordinary everyday people, but the environment can force them to adapt, or die.
 
 ## Tools
 
@@ -50,10 +51,10 @@ Post Processing Stack: Improves graphics with effects like bloom, motion blur, e
 
 ## Resources & References
 
-Resources yang akan digunakan pada project ini ialah sebagai berikut:
+The resources that will be used in this project are as follows:
 
-1. Environment Generator (sebagai asset utama dalam pengembangan lingkungan)
-2. Unity Asset Store (untuk memperoleh kit dan assets yang dibutuhkan)
-3. Unity Learn (acuan utama dalam pembuatan mekanik game)
-4. Unity’s Post-processing Stack (penyempurnaan pasca proses untuk pengalaman yang lebih imersif)
-5. Forum dan YouTube (pembahasan mendetail dan penyempurnaan kode pada implementasi)
+1. Environment Generator (as the main asset in developing the environment)
+2. Unity Asset Store (to obtain the kits and assets needed)
+3. Unity Learn (the main reference in creating game mechanics)
+4. Unity's Post-processing Stack (post-processing enhancements for a more immersive experience)
+5. Forums and YouTube (detailed discussion and code enhancements on implementation) 5.
