@@ -36,7 +36,17 @@ Pemain hanya orang sehari-hari biasa, tapi lingkungan dapat memaksa untuk berada
 
 ## Tools
 
-blablabla
+1. Game Engine
+Unity 3D: The primary engine used for building 2D/3D games. It supports physics, rendering, animations, and C# scripting.
+
+2. Tools
+Visual Studio: An IDE for writing C# code with Unity.
+Unity Profiler: Analyzes performance, memory usage, and optimization.
+
+3. Packages
+ProBuilder: For modeling 3D objects inside Unity.
+Cinemachine: Adds dynamic camera behavior.
+Post Processing Stack: Improves graphics with effects like bloom, motion blur, etc.
 
 ## Resources & References
 
