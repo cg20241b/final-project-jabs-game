@@ -3,13 +3,31 @@
 # JABS The Wanderer
 
 ## About Game
-blablabla
+
+Dalam proyek akhir ini, pemain akan memasuki dunia yang dilanda wabah virus mematikan yang telah mengubah sebagian besar populasi manusia menjadi zombie. Pemain akan berperan sebagai salah satu dari sedikit orang yang masih bertahan hidup dan harus mengandalkan keahlian menembak, strategi bertahan hidup, dan sumber daya yang terbatas untuk bertahan hidup dalam lingkungan yang berbahaya.
+
+Game ini bertipe survival-shooter di mana pemain harus menjelajahi area yang dipenuhi zombie, mencari persediaan, senjata, dan alat medis sambil berhadapan dengan gelombang serangan zombie yang semakin intens. Selain menghadapi zombie, pemain juga harus mengelola kebutuhan seperti stamina, kesehatan, dan amunisi. Setiap keputusan penting karena dapat mempengaruhi peluang bertahan hidup.
+
+Fitur Utama:
+
+1. **Mode Bertahan Hidup**: Pemain harus bertahan selama mungkin melawan gelombang serangan zombie yang semakin sulit di setiap level. Semakin lama bertahan, semakin banyak reward yang didapatkan.
+
+2. **Eksplorasi Dunia Terbuka**: Pemain dapat menjelajahi kota yang hancur, markas militer yang ditinggalkan, dan tempat-tempat lain yang penuh bahaya untuk mencari persediaan.
+
+3. **Kustomisasi Senjata**: Pemain dapat meng-upgrade senjata dan mengganti peralatan mereka untuk meningkatkan efektivitas dalam bertahan hidup melawan zombie.
+
+4. **Manajemen Sumber Daya**: Amunisi, makanan, dan obat-obatan terbatas, sehingga pemain harus cermat mengatur dan memilih kapan waktu yang tepat untuk menggunakannya.
+
+> **Tujuan Akhir**: Bertahan selama mungkin melawan serangan zombie sambil mencoba mengeksplor dunia baru.
 
 ## Game Mechanics
+
 blablabla
 
 ## Tools
+
 blablabla
 
 ## Resources & References
+
 blablabla
