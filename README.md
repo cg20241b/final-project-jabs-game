@@ -22,7 +22,17 @@ Fitur Utama:
 
 ## Game Mechanics
 
-blablabla
+1. **Crafting**
+
+Beggars can't be choosers. Pemain perlu memanfaatkan apapun yang ditemukan untuk bertahan hidup. 
+
+2. **Limited Resource**
+   
+Didalam dunia yang kacau ini, tidak ada satupun dapat masuk dan keluar. Berpikir dua kali (atau tiga) sebelum membuat keputusan. Gunakan peralatan yang pemain temukan untuk melindungi atau membunuh.
+
+3. **Kesulitan Adaptif**
+   
+Pemain hanya orang sehari-hari biasa, tapi lingkungan dapat memaksa untuk beradaptasi, atau mati.
 
 ## Tools
 
