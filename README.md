@@ -57,4 +57,4 @@ The resources that will be used in this project are as follows:
 2. Unity Asset Store (to obtain the kits and assets needed)
 3. Unity Learn (the main reference in creating game mechanics)
 4. Unity's Post-processing Stack (post-processing enhancements for a more immersive experience)
-5. Forums and YouTube (detailed discussion and code enhancements on implementation) 5.
+5. Forums and YouTube (detailed discussion and code enhancements on implementation) 
