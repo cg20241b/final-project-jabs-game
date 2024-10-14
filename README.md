@@ -25,7 +25,7 @@ Main Feature:
 
 1. **Crafting**
 
-Beggars can't be choosers. Players need to utilize whatever they find to survive. 
+Beggars can't be choosers. Players need to utilize whatever they find to survive. Craft something for your defense or to kill the horde. Keep surviving until you can't.
 
 2. **Limited Resource**
    
